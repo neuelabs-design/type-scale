@@ -1,0 +1,93 @@
+{
+  "commit": "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+  "pagesAndArtboards": {
+    "70FB2DE9-AA1E-437A-83F5-98AFEB078384": {
+      "name": "Page 1",
+      "artboards": {
+        "08686C69-E6DD-4B69-930E-F54902E02C88": {
+          "name": "type-scale"
+        }
+      }
+    },
+    "B803FFEB-F4A5-4654-975D-89BB8250C341": {
+      "name": "Symbols",
+      "artboards": {
+        "0328B3B9-5C0B-4848-A7B6-AC3C6769C0E5": {
+          "name": "ui \/ button \/ primary \/ large"
+        },
+        "84844F6A-EC1A-4200-A666-5021AAEC3FEB": {
+          "name": "ui \/ button \/ link \/ small"
+        },
+        "44FD59BC-2217-4CBF-832E-A309A4A9F795": {
+          "name": "ui \/ button \/ link \/ active"
+        },
+        "47E94DB5-3E57-4B35-A8E4-70F2F0D86716": {
+          "name": "ui \/ button \/ standard \/ default"
+        },
+        "9F173975-DDDB-4122-A26E-8DA9F025D4C0": {
+          "name": "ui \/ button \/ red \/ hover"
+        },
+        "46284C1C-B6D1-4E35-BCBF-B91F0CFCD6BA": {
+          "name": "ui \/ button \/ primary \/ default"
+        },
+        "3C03445F-F0E8-44B9-9FB9-B5A93F9CEF28": {
+          "name": "ui \/ button \/ yellow \/ default"
+        },
+        "0F4366A7-D48B-4AD5-B060-A177A26F0BC6": {
+          "name": "ui \/ button \/ primary \/ small"
+        },
+        "2A5A11E3-5656-49FF-8D9B-429E87FCAB0D": {
+          "name": "ui \/ button \/ primary \/ hover"
+        },
+        "25BDB5F1-A029-408F-88E6-EB17DB79B930": {
+          "name": "ui \/ button \/ red \/ active"
+        },
+        "A65D4F01-0A9E-4D16-99D3-EE40D98C6DE2": {
+          "name": "ui \/ button \/ link \/ hover"
+        },
+        "C8FB68FC-408E-4563-9927-34D13D034208": {
+          "name": "ui \/ button \/ yellow \/ hover"
+        },
+        "16CFEF3E-DC63-4701-935B-D4871590FFA3": {
+          "name": "ui \/ button \/ standard \/ active"
+        },
+        "54AC79D7-E6C1-4AEA-A11A-89F56E8CBDD3": {
+          "name": "ui \/ button \/ disabled"
+        },
+        "A7D6C063-062F-407F-BAD1-2EC1F62B9E59": {
+          "name": "ui \/ button \/ link \/ default"
+        },
+        "11A9A3AF-4385-445B-8EA8-B2655CBCAFC1": {
+          "name": "ui \/ button \/ standard \/ hover"
+        },
+        "C9E3E12C-9048-41B3-ACAB-31FC382DBC4E": {
+          "name": "ui \/ button \/ red \/ default"
+        },
+        "79D3C293-F2E9-49A3-8EE9-D79B176CF136": {
+          "name": "ui \/ button \/ yellow \/ active"
+        },
+        "E52E7392-E1ED-46F8-AB82-6FBE299FCD55": {
+          "name": "ui \/ button \/ primary \/ active"
+        }
+      }
+    }
+  },
+  "version": 103,
+  "fonts": ["AvenirNext-Bold", "AvenirNext-DemiBold", "AvenirNext-Medium", "AvenirNext-Regular"],
+  "compatibilityVersion": 99,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "created": {
+    "commit": "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+    "appVersion": "50.2",
+    "build": 55047,
+    "app": "com.bohemiancoding.sketch3",
+    "compatibilityVersion": 99,
+    "version": 103,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": ["NONAPPSTORE.55047"],
+  "appVersion": "50.2",
+  "build": 55047
+}

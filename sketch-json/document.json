@@ -1,0 +1,390 @@
+{
+  "_class": "document",
+  "do_objectID": "5F3E49FE-53CF-4B5C-9458-05D5C722A58F",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [],
+    "gradients": [],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {}
+    },
+    "images": []
+  },
+  "colorSpace": 0,
+  "currentPageIndex": 0,
+  "foreignLayerStyles": [],
+  "foreignSymbols": [],
+  "foreignTextStyles": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "objects": []
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "objects": [{
+      "_class": "sharedStyle",
+      "do_objectID": "FA72CB12-7050-4F0A-9A09-9BF55FDEDEDD",
+      "name": "H100",
+      "value": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "sharedObjectID": "FA72CB12-7050-4F0A-9A09-9BF55FDEDEDD",
+        "startDecorationType": 0,
+        "textStyle": {
+          "_class": "textStyle",
+          "encodedAttributes": {
+            "MSAttributedStringFontAttribute": {
+              "_class": "fontDescriptor",
+              "attributes": {
+                "name": "AvenirNext-Bold",
+                "size": 11
+              }
+            },
+            "paragraphStyle": {
+              "_class": "paragraphStyle",
+              "maximumLineHeight": 12,
+              "minimumLineHeight": 12
+            },
+            "MSAttributedStringColorAttribute": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.55,
+              "green": 0.4664,
+              "red": 0.418
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "kerning": 0
+          },
+          "verticalAlignment": 0
+        }
+      }
+    }, {
+      "_class": "sharedStyle",
+      "do_objectID": "ABEB775C-3684-45A4-98F5-D631CED8C4D2",
+      "name": "H200",
+      "value": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "sharedObjectID": "ABEB775C-3684-45A4-98F5-D631CED8C4D2",
+        "startDecorationType": 0,
+        "textStyle": {
+          "_class": "textStyle",
+          "encodedAttributes": {
+            "MSAttributedStringFontAttribute": {
+              "_class": "fontDescriptor",
+              "attributes": {
+                "name": "AvenirNext-DemiBold",
+                "size": 12
+              }
+            },
+            "paragraphStyle": {
+              "_class": "paragraphStyle",
+              "alignment": 0,
+              "maximumLineHeight": 16,
+              "minimumLineHeight": 16,
+              "allowsDefaultTighteningForTruncation": 0
+            },
+            "MSAttributedStringColorAttribute": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.55,
+              "green": 0.4664,
+              "red": 0.418
+            },
+            "kerning": 0
+          },
+          "verticalAlignment": 0
+        }
+      }
+    }, {
+      "_class": "sharedStyle",
+      "do_objectID": "574DE80A-1501-4CBB-A9B0-B36059CF4002",
+      "name": "H500",
+      "value": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "sharedObjectID": "574DE80A-1501-4CBB-A9B0-B36059CF4002",
+        "startDecorationType": 0,
+        "textStyle": {
+          "_class": "textStyle",
+          "encodedAttributes": {
+            "MSAttributedStringFontAttribute": {
+              "_class": "fontDescriptor",
+              "attributes": {
+                "name": "AvenirNext-DemiBold",
+                "size": 16
+              }
+            },
+            "paragraphStyle": {
+              "_class": "paragraphStyle",
+              "alignment": 0,
+              "maximumLineHeight": 20,
+              "minimumLineHeight": 20,
+              "allowsDefaultTighteningForTruncation": 0
+            },
+            "MSAttributedStringColorAttribute": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0,
+              "green": 0,
+              "red": 0
+            },
+            "kerning": 0
+          },
+          "verticalAlignment": 0
+        }
+      }
+    }, {
+      "_class": "sharedStyle",
+      "do_objectID": "68243AF8-1CF4-467A-AC86-F41C99B1C245",
+      "name": "H400",
+      "value": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "sharedObjectID": "68243AF8-1CF4-467A-AC86-F41C99B1C245",
+        "startDecorationType": 0,
+        "textStyle": {
+          "_class": "textStyle",
+          "encodedAttributes": {
+            "MSAttributedStringFontAttribute": {
+              "_class": "fontDescriptor",
+              "attributes": {
+                "name": "AvenirNext-Medium",
+                "size": 14
+              }
+            },
+            "paragraphStyle": {
+              "_class": "paragraphStyle",
+              "alignment": 0,
+              "maximumLineHeight": 20,
+              "minimumLineHeight": 20,
+              "allowsDefaultTighteningForTruncation": 0
+            },
+            "MSAttributedStringColorAttribute": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.302,
+              "green": 0.169,
+              "red": 0.09
+            },
+            "kerning": 0
+          },
+          "verticalAlignment": 0
+        }
+      }
+    }, {
+      "_class": "sharedStyle",
+      "do_objectID": "790DC1AF-0EEE-4934-9BB8-433A98E041FB",
+      "name": "H300",
+      "value": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "sharedObjectID": "790DC1AF-0EEE-4934-9BB8-433A98E041FB",
+        "startDecorationType": 0,
+        "textStyle": {
+          "_class": "textStyle",
+          "encodedAttributes": {
+            "MSAttributedStringFontAttribute": {
+              "_class": "fontDescriptor",
+              "attributes": {
+                "name": "AvenirNext-Bold",
+                "size": 12
+              }
+            },
+            "paragraphStyle": {
+              "_class": "paragraphStyle",
+              "maximumLineHeight": 16,
+              "minimumLineHeight": 16
+            },
+            "MSAttributedStringColorAttribute": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.3019607843,
+              "green": 0.168627451,
+              "red": 0.09019607843000001
+            },
+            "kerning": 0
+          },
+          "verticalAlignment": 0
+        }
+      }
+    }, {
+      "_class": "sharedStyle",
+      "do_objectID": "5D3E2BD4-5C37-42DE-8E2A-707A3EA2C915",
+      "name": "H700",
+      "value": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "sharedObjectID": "5D3E2BD4-5C37-42DE-8E2A-707A3EA2C915",
+        "startDecorationType": 0,
+        "textStyle": {
+          "_class": "textStyle",
+          "encodedAttributes": {
+            "MSAttributedStringFontAttribute": {
+              "_class": "fontDescriptor",
+              "attributes": {
+                "name": "AvenirNext-DemiBold",
+                "size": 24
+              }
+            },
+            "paragraphStyle": {
+              "_class": "paragraphStyle",
+              "alignment": 0,
+              "maximumLineHeight": 28,
+              "minimumLineHeight": 28,
+              "allowsDefaultTighteningForTruncation": 0
+            },
+            "MSAttributedStringColorAttribute": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.302,
+              "green": 0.169,
+              "red": 0.09
+            },
+            "kerning": 0
+          },
+          "verticalAlignment": 0
+        }
+      }
+    }, {
+      "_class": "sharedStyle",
+      "do_objectID": "C5270CF2-09B5-4670-A2A6-B44F03AFC446",
+      "name": "H600",
+      "value": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "sharedObjectID": "C5270CF2-09B5-4670-A2A6-B44F03AFC446",
+        "startDecorationType": 0,
+        "textStyle": {
+          "_class": "textStyle",
+          "encodedAttributes": {
+            "MSAttributedStringFontAttribute": {
+              "_class": "fontDescriptor",
+              "attributes": {
+                "name": "AvenirNext-Medium",
+                "size": 20
+              }
+            },
+            "paragraphStyle": {
+              "_class": "paragraphStyle",
+              "alignment": 0,
+              "maximumLineHeight": 24,
+              "minimumLineHeight": 24,
+              "allowsDefaultTighteningForTruncation": 0
+            },
+            "MSAttributedStringColorAttribute": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.302,
+              "green": 0.169,
+              "red": 0.09
+            },
+            "kerning": 0
+          },
+          "verticalAlignment": 0
+        }
+      }
+    }, {
+      "_class": "sharedStyle",
+      "do_objectID": "689CD410-767E-42FA-9A15-93EB8C560D8C",
+      "name": "H800",
+      "value": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "sharedObjectID": "689CD410-767E-42FA-9A15-93EB8C560D8C",
+        "startDecorationType": 0,
+        "textStyle": {
+          "_class": "textStyle",
+          "encodedAttributes": {
+            "MSAttributedStringFontAttribute": {
+              "_class": "fontDescriptor",
+              "attributes": {
+                "name": "AvenirNext-Medium",
+                "size": 29
+              }
+            },
+            "paragraphStyle": {
+              "_class": "paragraphStyle",
+              "maximumLineHeight": 32,
+              "minimumLineHeight": 32
+            },
+            "MSAttributedStringColorAttribute": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0,
+              "green": 0,
+              "red": 0
+            },
+            "kerning": 0
+          },
+          "verticalAlignment": 0
+        }
+      }
+    }, {
+      "_class": "sharedStyle",
+      "do_objectID": "C91438F0-4393-428F-8CF0-3F041190F712",
+      "name": "Paragraph",
+      "value": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "sharedObjectID": "C91438F0-4393-428F-8CF0-3F041190F712",
+        "startDecorationType": 0,
+        "textStyle": {
+          "_class": "textStyle",
+          "encodedAttributes": {
+            "MSAttributedStringFontAttribute": {
+              "_class": "fontDescriptor",
+              "attributes": {
+                "name": "AvenirNext-Regular",
+                "size": 14
+              }
+            },
+            "paragraphStyle": {
+              "_class": "paragraphStyle",
+              "maximumLineHeight": 20,
+              "minimumLineHeight": 20,
+              "paragraphSpacing": 12
+            },
+            "MSAttributedStringColorAttribute": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.3019607843,
+              "green": 0.168627451,
+              "red": 0.09019607843000001
+            },
+            "kerning": 0
+          },
+          "verticalAlignment": 0
+        }
+      }
+    }]
+  },
+  "pages": [{
+    "_class": "MSJSONFileReference",
+    "_ref_class": "MSImmutablePage",
+    "_ref": "pages\/70FB2DE9-AA1E-437A-83F5-98AFEB078384"
+  }, {
+    "_class": "MSJSONFileReference",
+    "_ref_class": "MSImmutablePage",
+    "_ref": "pages\/B803FFEB-F4A5-4654-975D-89BB8250C341"
+  }],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

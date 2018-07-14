@@ -1,5 +1,5 @@
 {
-  "commit": "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+  "commit": "1418cd50f72f7bffeb2043a8c14ab9895a5d0619",
   "pagesAndArtboards": {
     "70FB2DE9-AA1E-437A-83F5-98AFEB078384": {
       "name": "Page 1",
@@ -72,22 +72,22 @@
       }
     }
   },
-  "version": 103,
+  "version": 105,
   "fonts": ["AvenirNext-Bold", "AvenirNext-DemiBold", "AvenirNext-Medium", "AvenirNext-Regular"],
   "compatibilityVersion": 99,
   "app": "com.bohemiancoding.sketch3",
   "autosaved": 0,
   "variant": "NONAPPSTORE",
   "created": {
-    "commit": "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
-    "appVersion": "50.2",
-    "build": 55047,
+    "commit": "1418cd50f72f7bffeb2043a8c14ab9895a5d0619",
+    "appVersion": "51",
+    "build": 57462,
     "app": "com.bohemiancoding.sketch3",
     "compatibilityVersion": 99,
-    "version": 103,
+    "version": 105,
     "variant": "NONAPPSTORE"
   },
-  "saveHistory": ["NONAPPSTORE.55047"],
-  "appVersion": "50.2",
-  "build": 55047
+  "saveHistory": ["NONAPPSTORE.57462"],
+  "appVersion": "51",
+  "build": 57462
 }
